@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # formapp
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# fromapp
+this is a simple form app , where we can do normal data entry
+>>>>>>> f66aa29a50c750acc2ec1f619c976212607003ca
